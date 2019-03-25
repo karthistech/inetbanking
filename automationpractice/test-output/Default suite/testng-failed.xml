@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="aut.practice.testcase.TC_002_invalid_login">
+        <methods>
+          <include name="beforesuite"/>
+          <include name="close"/>
+          <include name="invalid_login"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- aut.practice.testcase.TC_002_invalid_login -->
+      <class name="aut.practice.testcase.TC_001_Login">
+        <methods>
+          <include name="beforesuite"/>
+          <include name="Login"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- aut.practice.testcase.TC_001_Login -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
