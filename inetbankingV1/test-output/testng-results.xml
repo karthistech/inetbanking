@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19075" started-at="2019-02-17T15:47:04Z" finished-at="2019-02-17T15:47:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19075" started-at="2019-02-17T15:47:04Z" finished-at="2019-02-17T15:47:23Z">
+      <class name="com.inetbankingV1.TestCases.TC_001_Login_functionality">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.inetbankingV1.TestCases.TC_001_Login_functionality@49fc609f]" name="setup" is-config="true" duration-ms="2490" started-at="2019-02-17T15:47:04Z" finished-at="2019-02-17T15:47:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="successullogin()[pri:0, instance:com.inetbankingV1.TestCases.TC_001_Login_functionality@49fc609f]" name="successullogin" duration-ms="15867" started-at="2019-02-17T15:47:06Z" finished-at="2019-02-17T15:47:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successullogin -->
+        <test-method status="PASS" signature="closure()[pri:0, instance:com.inetbankingV1.TestCases.TC_001_Login_functionality@49fc609f]" name="closure" is-config="true" duration-ms="698" started-at="2019-02-17T15:47:22Z" finished-at="2019-02-17T15:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- com.inetbankingV1.TestCases.TC_001_Login_functionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

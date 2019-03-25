@@ -1,0 +1,21 @@
+Inside the setup of base class
+Browser OpenedGuru99 Bank Home Page
+Test
+UserName EnteredGuru99 Bank Home Page
+Password EnteredGuru99 Bank Home Page
+Login button clicked
+Login SuccessfulGuru99 Bank Manager HomePage
+Inside the setup of base class
+Browser OpenedGuru99 Bank Home Page
+Test
+UserName EnteredGuru99 Bank Home Page
+Password EnteredGuru99 Bank Home Page
+Login button clicked
+Login SuccessfulGuru99 Bank Manager HomePage
+Inside the setup of base class
+Browser OpenedGuru99 Bank Home Page
+Test
+UserName EnteredGuru99 Bank Home Page
+Password EnteredGuru99 Bank Home Page
+Login button clicked
+Login SuccessfulGuru99 Bank Manager HomePage
